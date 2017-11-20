@@ -1,0 +1,59 @@
+// Place all the styles related to the questions controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  font-size: 20px;
+}
+
+p {
+  font-size: 18px;
+}
+
+.dialog {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-left: 2px solid #bbb;
+  margin: 2% 33%;
+  padding: 20px 0;
+
+}
+
+.ask_question {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#question {
+  padding: 10px;
+}
+
+input {
+  padding: 10px;
+}
+
+
+.btn-primary {
+  margin-left: 10px;
+}
+
+.person {
+  font-size: 14px;
+  color: #bbb;
+}
+
+form {
+  margin-top: 40px;
+}
+
+.again {
+  margin-top: 20px;
+}
